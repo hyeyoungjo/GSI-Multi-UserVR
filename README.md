@@ -10,3 +10,5 @@ https://www.notion.so/GSI-VR-d9ee80884f6c4e25991cbe4d4118a522
 ## Packages
 Oculus Integration
 XR Plugin Management (Edit-Project Settings)
+Photon PUN2
+Distant Lands Free Characters

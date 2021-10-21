@@ -61,3 +61,5 @@ crashlytics-build.properties
 
 # Downloaded packages
 MultiplayerVR/Assets/Oculus*
+MultiplayerVR/Assets/Photon*
+MultiplayerVR/Assets/Distant Lands*
