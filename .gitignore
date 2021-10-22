@@ -63,3 +63,5 @@ crashlytics-build.properties
 MultiplayerVR/Assets/Oculus*
 MultiplayerVR/Assets/Photon*
 MultiplayerVR/Assets/Distant Lands*
+MultiplayerVR/ProjectSettings/InputManager.asset
+MultiplayerVR/UserSettings/EditorUserSettings.asset
